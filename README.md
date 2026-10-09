@@ -1,56 +1,44 @@
+# Caio Henrique Corrêa
 
-# Hi there! I'm Caio Henrique Corrêa 👋
+**Computer Science Student | Software Developer**
 
-### Computer Science Student | Software Development | Full-Stack
+I'm an undergraduate Computer Science student at the **Federal University of Uberlândia (UFU)**, interested in building reliable software and solving problems through code.
 
-I'm a Computer Science undergraduate at the Federal University of Uberlândia (UFU), Brazil, expected to graduate in 2027.
+My experience includes mobile development with Flutter, Java applications with graphical interfaces and database integration, and academic work involving algorithms and graph theory. I enjoy learning how systems work and turning ideas into practical projects.
 
-I'm passionate about software development, problem-solving, and building applications that connect programming logic, user interfaces, and databases.
+## Experience
 
-## 💻 Tech Stack
+**Mobile Application Development — Vertical Digital Innovation**  
+*March 2025 – October 2025*  
+Contributed to the development of a Flutter application, working with programming fundamentals, interface design, user experience, and task management.
 
-**Languages:** C, C++, Java, R
+**Java & Database Development — Academic Project**  
+Developed a Java application with a graphical interface and database connection, applying object-oriented programming, data persistence, and software architecture concepts.
 
-**Mobile Development:** Flutter
+**Graph Theory Teaching Assistant — UFU**  
+Supported students with course exercises and questions, and helped facilitate communication between students and faculty during the final project.
 
-**Databases:** PostgreSQL
+## Technologies
 
-**Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Database Modeling, Software Development
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-## 🚀 Experience
+## Education
 
-### Flutter Developer | Vertical Digital Innovation
-*March 2025 – October 2025*
+- **B.Sc. in Computer Science** — Federal University of Uberlândia (UFU), 2023–2027 (expected)
+- **Fluent English** — CCAA, 2021
 
-- Contributed to mobile application development using Flutter.
-- Applied programming logic and UX principles.
-- Participated in task management and application development activities.
+## Projects
 
-### Teaching Assistant | Graph Theory – UFU
+- **[Compiler Construction](https://github.com/caiudi/Constru-o-de-Compiladores)** — Academic work with automata, lexical specifications, and compiler construction.
+- **[Procedural Programming](https://github.com/caiudi/Progama-o-Procedimental)** — C programming laboratory exercises completed during my undergraduate studies.
 
-- Supported students with graph theory concepts and exercises.
-- Assisted with academic activities and communication between students and faculty.
+## Contact
 
-## 📌 Featured Projects
-
-### Compiler Construction
-Academic project exploring compiler design, lexical specifications, and automata.
-
-[View Repository](https://github.com/caiudi/Constru-o-de-Compiladores)
-
-### Procedural Programming
-Collection of C programming laboratory exercises.
-
-[View Repository](https://github.com/caiudi/Progama-o-Procedimental)
-
-## 🎯 Currently
-
-- Pursuing a Bachelor's degree in Computer Science.
-- Improving my software engineering and database skills.
-- Looking for opportunities in software development.
-
-## 📫 Contact
-
-**Email:** caiohenrique2004@gmail.com
-
-**GitHub:** [github.com/caiudi](https://github.com/caiudi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/caiudi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caiohenrique2004@gmail.com)
