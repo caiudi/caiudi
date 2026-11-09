@@ -8,15 +8,30 @@ My experience includes mobile development with Flutter, Java applications with g
 
 ## Experience
 
-**Mobile Application Development — Vertical Digital Innovation**  
-*March 2025 – October 2025*  
-Contributed to the development of a Flutter application, working with programming fundamentals, interface design, user experience, and task management.
 
-**Java & Database Development — Academic Project**  
-Developed a Java application with a graphical interface and database connection, applying object-oriented programming, data persistence, and software architecture concepts.
+## Experience
 
-**Graph Theory Teaching Assistant — UFU**  
-Supported students with course exercises and questions, and helped facilitate communication between students and faculty during the final project.
+### Full Stack Developer — XINU Tech
+*Present*
+
+Working on the development of web applications and backend services using **C# and ASP.NET Core**, focusing on RESTful API development, database integration, and scalable software architecture.
+
+Involved in implementing application features, managing data with SQL and PostgreSQL, integrating backend services with frontend interfaces, and applying object-oriented programming principles to build maintainable and reliable solutions.
+
+### Mobile Application Developer — Vertical Digital Innovation
+*March 2025 – October 2025*
+
+Contributed to the development of mobile applications using **Flutter and Dart**, working on user interface implementation, database operations, and application functionality.
+
+Collaborated with the development team to design innovative features, improve user experience, solve technical challenges, and transform ideas into practical software solutions.
+
+### Graph Theory Teaching Assistant — Federal University of Uberlândia (UFU)
+*February 2025 – May 2025*
+
+Supported students in understanding graph theory, algorithm design, and computational problem-solving.
+
+Assisted with algorithms such as **BFS, DFS, Dijkstra, and Kruskal**, conducted tutoring sessions, and helped students apply theoretical concepts to practical programming challenges.
+
 
 ## Technologies
 
